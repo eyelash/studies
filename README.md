@@ -9,3 +9,7 @@ implementation of a [lazily evaluated](https://en.wikipedia.org/wiki/Lazy_evalua
 ## [fft.hh](fft.hh)
 
 [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform) implementation in C++
+
+## [sha256.c](sha256.c)
+
+[SHA-256](https://en.wikipedia.org/wiki/SHA-2) implementation in C
